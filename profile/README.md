@@ -10,9 +10,9 @@ A clan of full-stack developers hailing from all corners of the Earth; focused o
 ## ☕ Meet Our Team
 - [**Jbablestime**](https://github.com/Jbablestime), Founder/CEO
 - [**Eclipsed**](https://github.com/EclipsedGamer1), Co-Founder/COO
-- [**vMohammad**](https://github.com/vMohammad24), Community Manager
+- [**Emplixety**](https://github.com/Emplixety), Community Manager
 - [**Acey**](https://github.com/lb-acey), Project Manager
 - [**Proyo9**](https://github.com/Proyo9), Quality Assurance Manager
-- [**Emplixety**](https://github.com/Emplixety), Team Manager
+- **Naya** Team Manager
 - [**Conflexed**](https://github.com/conflexed), System Administrator
 
