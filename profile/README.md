@@ -13,6 +13,6 @@ A clan of full-stack developers hailing from all corners of the Earth; focused o
 - [**Emplixety**](https://github.com/Emplixety), Community Manager
 - [**Acey**](https://github.com/lb-acey), Project Manager
 - [**Proyo9**](https://github.com/Proyo9), Quality Assurance Manager
+- [**Conflexed**](https://github.com/conflexed), Security Manager
 - [**Naya**](https://github.com/sleepinpancake), Team Manager
-- [**Conflexed**](https://github.com/conflexed), System Administrator
 
