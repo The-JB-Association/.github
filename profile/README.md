@@ -3,8 +3,7 @@ A clan of full-stack developers hailing from all corners of the Earth; focused o
 
 ## 🌟 Our Projects
 - **Biography.gg** - https://biography.gg/
-> 
-- **Martin Economy** - Coming Soon
+
   
 
 ## ☕ Meet Our Team
